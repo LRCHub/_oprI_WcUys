@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Blah Blah Blah",
+  "base_artist": "Armin van Buuren",
+  "createdAt": "2026-03-06T09:32:13.697609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/01_Blah_Blah_Blah_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/02_Blah_Blah_Blah_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "3OH!3 feat. Ke$ha",
+      "has_synced": true,
+      "path": "select/03_Blah_Blah_Blah_3OH!3_feat._Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blah Blah Blah Feat. 3OH!3",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/04_Blah_Blah_Blah_Feat._3OH!3_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blah, Blah, Blah On The Radio",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/05_Blah,_Blah,_Blah_On_The_Radio_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "Say Hi",
+      "has_synced": true,
+      "path": "select/06_Blah_Blah_Blah_Say_Hi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "Say Hi To Your Mom",
+      "has_synced": true,
+      "path": "select/07_Blah_Blah_Blah_Say_Hi_To_Your_Mom.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blah-Blah-Blah",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/08_Blah-Blah-Blah_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blah, Blah, Blah",
+      "artist": "Hüsker Dü",
+      "has_synced": true,
+      "path": "select/09_Blah,_Blah,_Blah_Hüsker_Dü.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blah-Blah-Blah",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/10_Blah-Blah-Blah_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "Armin van Buuren",
+      "has_synced": true,
+      "path": "select/11_Blah_Blah_Blah_Armin_van_Buuren.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "Armin van Buuren",
+      "has_synced": true,
+      "path": "select/12_Blah_Blah_Blah_Armin_van_Buuren.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/13_Blah_Blah_Blah_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/14_Blah_Blah_Blah_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blah Blah Blah",
+      "artist": "Kesha feat. 3OH!3",
+      "has_synced": true,
+      "path": "select/15_Blah_Blah_Blah_Kesha_feat._3OH!3.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blah Blah Blah (feat. 3OH!3)",
+      "artist": "Kesha/3OH!3",
+      "has_synced": true,
+      "path": "select/16_Blah_Blah_Blah_(feat._3OH!3)_Kesha_3OH!3.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'll Fly With You (Blah Blah Blah)",
+      "artist": "Gigi D'agostino",
+      "has_synced": true,
+      "path": "select/17_I'll_Fly_With_You_(Blah_Blah_Blah)_Gigi_D'agostino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blah Blah Blah",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/pl_01_Blah_Blah_Blah_Armin_van_Buuren.txt"
+    }
+  ]
+}
